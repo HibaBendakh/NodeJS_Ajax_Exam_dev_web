@@ -1,0 +1,30 @@
+{
+   "data": [
+      {
+         "id": 5,
+         "author": "aaaa",
+         "joke": "jokea"
+      },
+      {
+         "id": 6,
+         "author": "ccccc",
+         "joke": "cccccc"
+      },
+      {
+         "id": 10,
+         "author": "Chuck Norris",
+         "joke": "Chuck Norris can take the square root of a negitive number"
+      },
+      {
+         "id": 11,
+         "author": "Chuck Norris",
+         "joke": "Chuck Norris can take the square root of a negitive number"
+      },
+      {
+         "id": 12,
+         "author": "Chuck Norris",
+         "joke": "Chuck Norris can take the square root of a negitive number"
+      }
+   ],
+   "lastId": 13
+}
